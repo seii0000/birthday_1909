@@ -298,3 +298,8 @@ body {
     font-weight: lighter;
   }
 }
+
+
+.nine.small_0 {
+  font-size: 0.5rem;
+}
